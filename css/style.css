@@ -1,0 +1,10 @@
+.carousel_bg_image_styling {
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+​
+.classicRue {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
